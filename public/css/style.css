@@ -168,6 +168,7 @@ a {
 .join-main label {
 	display: block;
 	margin-bottom: 5px;
+	color: var(--light-color);
 }
 
 .join-main input[type='text'] {
